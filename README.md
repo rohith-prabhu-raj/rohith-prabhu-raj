@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rohith Prabhu Raj 👋
 
-<!--
-**rohith-prabhu-raj/rohith-prabhu-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at GITAM Deemed University
 
-Here are some ideas to get you started:
+💻 Learning Python and strengthening programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring Artificial Intelligence and Generative AI
+
+🚀 Interested in building practical AI-powered applications
+
+📚 Currently improving my problem-solving and technical skills
+
+### Connect with me
+
+- LinkedIn: [Rohith Prabhu Raj](https://www.linkedin.com/in/rohith-prabhu-raj)
